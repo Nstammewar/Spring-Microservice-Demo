@@ -1,0 +1,47 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+!**/build.gradle
+!**/gradle/
+!**/gradlew
+!**/gradlew.bat
+!**/settings.gradle
+eureka-discovery-service/.gitignore
+eureka-discovery-service/build.gradle
+eureka-discovery-service/gradle/wrapper/gradle-wrapper.jar
+eureka-discovery-service/gradle/wrapper/gradle-wrapper.properties
+eureka-discovery-service/gradlew
+eureka-discovery-service/gradlew.bat
+eureka-discovery-service/settings.gradle
+eureka-discovery-service/gradle/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
