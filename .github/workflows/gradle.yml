@@ -9,6 +9,10 @@ on:
   pull_request:
     branches: [ Last ]
 
+defaults:
+  run:
+    working-directory: eureka-discovery-service
+
 jobs:
   build:
 
