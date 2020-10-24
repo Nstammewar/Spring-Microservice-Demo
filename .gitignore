@@ -10,7 +10,6 @@ build/
 !**/gradlew.bat
 !**/settings.gradle
 eureka-discovery-service/.gitignore
-eureka-discovery-service/build.gradle
 eureka-discovery-service/gradle/wrapper/gradle-wrapper.jar
 eureka-discovery-service/gradle/wrapper/gradle-wrapper.properties
 eureka-discovery-service/gradlew
